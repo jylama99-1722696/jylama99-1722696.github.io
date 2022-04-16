@@ -1,0 +1,51 @@
+
+h2 {
+    font-family: monospace;
+    color: coral;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+legend {
+    color: coral;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: monospace;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+body {
+    background-image: url(https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F04%2Fpokemon-pikachu-video-chat-backgrounds-download-info-006.jpg);
+}
+
+div {
+    background-color:antiquewhite;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+input[type=submit] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    color: coral;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: monospace;
+}
+
+#Footer {
+    font-family: courier;
+    color: coral;
+    font-size: 15px;
+    text-align: center;
+    border: solid 1px black;
+    float: left;
+}
